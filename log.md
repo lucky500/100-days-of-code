@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 30, 2017 
+### Day 1: December 30, 2017 
 
 **Today's Progress**: Started with Real State Rails React App, learned about semantic UI React.
 
