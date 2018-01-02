@@ -7,7 +7,7 @@
 **Thoughts:** Started on my Real State React Rails app, got a minimal Webpack file going, and package.json, From the get go, I wanted to try Rails with a different solution for the UI, so this is the first day working on the app. There are couple options in getting it done, but it seems that the best option, is to have the backend and the frontend totally separated, functioning like two different apps, so I am reviewing some tutorials and videos to follow through.
 
 _not much to show yet_   
-**Link to work:** [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
+**Link to work:**   [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
 
 
 
@@ -17,7 +17,7 @@ _not much to show yet_
 
 **Thoughts:** When you add something like React, Redux, Semantic UI and React Router, your application start to get more complex, sometimes I wonder if this level of complexity is warranted. Watching videos to learn about REDUX, eventually I will add REDUX, not because is really needed, but because I wanted to work with the technology.
 
-**Link to work:**[Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
+**Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
 
 
 
@@ -29,7 +29,7 @@ _not much to show yet_
 ```{ link.urlDemo ? <a href={link.urlDemo}>Demo </a> : null } ```
 easy enough huh? Thank God for stackoverflow!
 
-**Link to work:**[lucianooliveira.net](https://luciano-oliveira.herokuapp.com/)
+**Link to work:**  [lucianooliveira.net](https://luciano-oliveira.herokuapp.com/)
 
 
 
@@ -39,4 +39,4 @@ easy enough huh? Thank God for stackoverflow!
 
 **Thoughts:**
 
-**Link to work:**[link](https://)
+**Link to work:**  [link](https://)
