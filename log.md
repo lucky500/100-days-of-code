@@ -35,8 +35,8 @@ easy enough huh? Thank God for stackoverflow!
 
 ### Day 4: January 2, 2018
 
-**Today's Progress**:
+**Today's Progress**: Not much progress, I was stuck for a long time messing with react-router-dom, I am still having issues with my implementation, I am hoping to at least make start the backend tomorrow, even if it's just the scaffold.
 
-**Thoughts:**
+**Thoughts:** some days you just don't feel like coding at all!
 
-**Link to work:**  [link](https://)
+**Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
