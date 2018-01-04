@@ -40,3 +40,13 @@ easy enough huh? Thank God for stackoverflow!
 **Thoughts:** some days you just don't feel like coding at all!
 
 **Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
+
+
+### Day 5: January 3, 2018
+
+
+**Today's Progress**: Today I worked very little on my Real State App. I actually solved some algorithms and did a bit of whiteboarding, because I have an interview tomorrow. I did however managed to add the backend files to my app. I will be using the stripped down version of Rails, Rails Api. Wish me luck!
+
+**Thoughts:** do you want to complicate your life? add REDUX.
+
+**Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
