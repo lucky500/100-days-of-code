@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 30, 2017 
+### Day 1: January 1, 2018 
 
 **Today's Progress**: Started with Real State Rails React App, learned about semantic UI React.
 
@@ -11,7 +11,7 @@ _not much to show yet_
 
 
 
-### Day 2: December 31, 2017 
+### Day 2: January 2, 2018 
 
 **Today's Progress**: Continued work on the Real State App, started playing around with semantic UI for React
 
@@ -21,7 +21,7 @@ _not much to show yet_
 
 
 
-### Day 3: January 1, 2018
+### Day 3: January 3, 2018
 
 **Today's Progress**: Removed some dead links from my portfolio, and pushed to Heroku.
 
@@ -33,7 +33,7 @@ easy enough huh? Thank God for stackoverflow!
 
 
 
-### Day 4: January 2, 2018
+### Day 4: January 4, 2018
 
 **Today's Progress**: Not much progress, I was stuck for a long time messing with react-router-dom, I am still having issues with my implementation, I am hoping to at least make start the backend tomorrow, even if it's just the scaffold.
 
@@ -42,7 +42,7 @@ easy enough huh? Thank God for stackoverflow!
 **Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
 
 
-### Day 5: January 3, 2018
+### Day 5: January 5, 2018
 
 
 **Today's Progress**: Today I worked very little on my Real State App. I actually solved some algorithms and did a bit of whiteboarding, because I have an interview tomorrow. I did however managed to add the backend files to my app. I will be using the stripped down version of Rails, Rails Api. Wish me luck!
@@ -50,3 +50,22 @@ easy enough huh? Thank God for stackoverflow!
 **Thoughts:** do you want to complicate your life? add REDUX.
 
 **Link to work:**  [Real State App - Rails with ReactJS](https://github.com/lucky500/real-state-rails-react)
+
+
+### Day 6: January 6, 2018
+
+
+**Today's Progress**: Worked a little bit on Redux, did some reading, did a bit of algorithms.
+
+**Thoughts:** Need to streamline and work at one tutorial at time. I need to back to basics, since before I can start messing with REDUX, I want to be very comfortable with ReactJS.
+
+
+
+### Day 7: January 7, 2018
+
+
+**Today's Progress**: Did some ES6, and started a small ReactJS with GO and RethinkDB project.
+
+**Thoughts:** One project at time. if Needed go back and read it again.
+
+**Link to work:**  [SlackClone - React, GO and RethinkDB](https://github.com/lucky500/slack-clone)
