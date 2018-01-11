@@ -52,3 +52,15 @@ easy enough huh? Thank God for stackoverflow!
 **Today's Progress**: Worked a bit more on my SlackClone app, mostly doing the front End with React, also Read some tutorials.
 **Thoughts:** Was an okay day, got the news that I got a internship here in Seattle and that is some good news.
 **Link to work:**  [SlackClone - React, GO and RethinkDB](https://github.com/lucky500/slack-clone)
+
+
+### Day 9: January 9, 2018
+**Today's Progress**: Worked on Epicodus React course.   
+**Thoughts:** Just keep at it.   
+**Link to work:**  [React Help Queue](https://github.com/lucky500/react-help-queue)   
+
+
+### Day 10: January 10, 2018
+**Today's Progress**: Took a break from React today and tried go out. I never had this much pain in getting my Path variable to work, in the other hand, syntax is pretty nice.   
+**Thoughts:** Just keep at it.   
+**Link to work:**    
