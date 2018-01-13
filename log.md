@@ -64,3 +64,14 @@ easy enough huh? Thank God for stackoverflow!
 **Today's Progress**: Took a break from React today and tried go out. I never had this much pain in getting my Path variable to work, in the other hand, syntax is pretty nice.   
 **Thoughts:** Just keep at it.   
 **Link to work:**    
+
+### Day 11: January 11, 2018
+**Today's Progress**: Back to React, just about finished with the first week of React on the Epicodus curriculum.   
+**Thoughts:** Webpack is annoying sometimes, it was not collaborating and it took me a while to make it work.   
+**Link to work:**   
+
+### Day 12: January 12, 2018
+**Today's Progress**: Finished week 1 of the Epicodus React curriculum. They actually change stuff around, so I had to go back and fix minor errors. Worked with Webpack and images and extract-text-webpack-plugin for the css. This.  
+**Thoughts:** Although sometimes I want to look at something new like Go, that looks good, I am commited to just work on React, React-router and Redux this month.
+**Link to work:**  [React Help Queue](https://github.com/lucky500/react-help-queue) 
+
