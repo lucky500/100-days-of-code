@@ -75,3 +75,8 @@ easy enough huh? Thank God for stackoverflow!
 **Thoughts:** Although sometimes I want to look at something new like Go, that looks good, I am commited to just work on React, React-router and Redux this month.
 **Link to work:**  [React Help Queue](https://github.com/lucky500/react-help-queue) 
 
+
+### Day 13: January 13, 2018
+**Today's Progress**: Pretty good day, concentrate in REDUX and finished the tutorial/app that I was working on.
+**Thoughts:** Absorbed a bit more how actions, reducers work.
+**Link to work:**  [React/Redux ReminderPro](https://github.com/lucky500/reminderPro) 
