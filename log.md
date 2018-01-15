@@ -80,3 +80,8 @@ easy enough huh? Thank God for stackoverflow!
 **Today's Progress**: Pretty good day, concentrate in REDUX and finished the tutorial/app that I was working on.   
 **Thoughts:** Absorbed a bit more how actions, reducers work.   
 **Link to work:**  [React/Redux ReminderPro](https://github.com/lucky500/reminderPro) 
+
+### Day 14: January 14, 2018   
+**Today's Progress**: All about Redux today, action, reducers and pure functions.      
+**Thoughts:** Mostly reading, but it was a productive day.     
+**Link to work:**  [React/Redux ReminderPro](https://github.com/lucky500/reminderPro)
