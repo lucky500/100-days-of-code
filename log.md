@@ -7,3 +7,13 @@ for the most part, I usually code some everyday. I just have to get better at ke
 **Link to work:**   [billingCycle - Backend](https://github.com/lucky500/billingCycleBackend)   
 
 
+### Day 2: March 5th, 2018 
+**Today's Progress**: Started back up on front end and REDUX   
+**Thoughts:** I want to concentrate on REDUX, really understand the concepts and get better at it.   
+**Link to work:**   [billingCycle - Backend](https://github.com/lucky500/billingCycleBackend)  
+
+### Day 3: March 6th, 2018 
+**Today's Progress**: Did about half of the challenges on FCC's Basic Algorithm Scripting.   
+**Thoughts:** Man, I suck at whiteboarding... The only way to get better at it, is to keep doing it.     
+
+
