@@ -16,4 +16,11 @@ for the most part, I usually code some everyday. I just have to get better at ke
 **Today's Progress**: Did about half of the challenges on FCC's Basic Algorithm Scripting.   
 **Thoughts:** Man, I suck at whiteboarding... The only way to get better at it, is to keep doing it.     
 
+### Day 4: March 7th, 2018 
+**Today's Progress**: REDUX, REDUX and more REDUX   
+**Thoughts:** Getting the concepts of REDUX down. It is finally starting to make some sense.. 
+
+### Day 5: March 8th, 2018 
+**Today's Progress**: more REDUX.   
+**Thoughts:** REDUX heavy day, following Stephen Grider tutorial. 
 
