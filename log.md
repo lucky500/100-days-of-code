@@ -24,3 +24,14 @@ for the most part, I usually code some everyday. I just have to get better at ke
 **Today's Progress**: more REDUX.   
 **Thoughts:** REDUX heavy day, following Stephen Grider tutorial. 
 
+### Day 6: March 9th, 2018 
+**Today's Progress**: A bit more REDUX switched to Tyler Mcginnis tutorial.   
+**Thoughts:** still more REDUX. As I am not working in a particular app, I am just following tutorials and writing code snippets. 
+
+### Day 7: March 10th, 2018 
+**Today's Progress**: REACT and ES6.   
+**Thoughts:** Did a bit of REACT and ES6 today. 
+
+### Day 8: March 11th, 2018 
+**Today's Progress**: GraphQL.   
+**Thoughts:** I have looked into GraphQL, because it looks super cool, but now I am way deep into the rabbit hole, Not sure why I am worried about this, but wanted to see what makes sense to use if I am using REDUX, Apollo everyone says, so don't worry about Relay and concentrate on Apollo, but as you dig a bit into Apollo documentation, V2 does not use REDUX under the hood, and Apollo and Relay now both takes care of state management, replacing the need for REDUX.
