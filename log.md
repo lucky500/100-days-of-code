@@ -35,3 +35,40 @@ for the most part, I usually code some everyday. I just have to get better at ke
 ### Day 8: March 11th, 2018 
 **Today's Progress**: GraphQL.   
 **Thoughts:** I have looked into GraphQL, because it looks super cool, but now I am way deep into the rabbit hole, Not sure why I am worried about this, but wanted to see what makes sense to use if I am using REDUX, Apollo everyone says, so don't worry about Relay and concentrate on Apollo, but as you dig a bit into Apollo documentation, V2 does not use REDUX under the hood, and Apollo and Relay now both takes care of state management, replacing the need for REDUX.
+
+### Day 9: March 12th, 2018 
+**Today's Progress**: Did more REDUX, working on the my money app.   
+**Thoughts:** I need to manage my time a bit better. Need to work more efficient, I like working on REDUX to really get the concepts, but I need to work on fundamentals as well.   
+**Link to work:**   [billingCycle - FrontEnd](https://github.com/lucky500/billingCycleFrontend)   
+
+### Day 10: March 13th, 2018 
+**Today's Progress**: Worked mostly on preparing for an interview that I had. Covered algorithms   
+**Thoughts:** 
+
+### Day 11: March 14th, 2018 
+**Today's Progress**:  Algorithms  
+**Thoughts:** more preparing for an interview
+
+### Day 12: March 15th, 2018 
+**Today's Progress**: Algorithms  
+**Thoughts:**  Worked a bit more on Algorithms
+
+### Day 13: March 16th, 2018 
+**Today's Progress**: Reviewing JS Concepts   
+**Thoughts:** Got some feedback from the interview. didn't get the job, but was surprisingly not too upset.
+
+### Day 14: March 17th, 2018 
+**Today's Progress**: Reviewing JS Concepts   
+**Thoughts:** Light day, had to work, and just did enought to call it a coding day.
+
+### Day 15: March 18th, 2018 
+**Today's Progress**:    
+**Thoughts:**
+
+### Day 16: March 19th, 2018 
+**Today's Progress**:    
+**Thoughts:**
+
+### Day 17: March 20th, 2018 
+**Today's Progress**:    
+**Thoughts:**
