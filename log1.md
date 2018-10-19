@@ -15,3 +15,6 @@ var number = 1;
     console.log('inside=', number);
 }
 console.log('outside=', number;
+
+### Day 4: November 18th, 2018 
+**Today's Progress**: R1D4 - Destructuring, Logic and binary operators, Review of objects and arrays.
